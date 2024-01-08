@@ -1,0 +1,6 @@
+Kick {Vid = cat, personName = Arthur, address = Kitty, treatment cost = 5000}
+Sambo (Vid = cat, personName = Sinimini, address = Alaska, treatment cost = 2000)
+Hihi (Vid = Cat, person Name = Ann, address = Chine, treatment cost = 7700 }
+Hacapur (Vid = Cat, person Name = Andrej, address = Ukraine, treatment cost = 6557}
+Sabot (Vid = Dog, person Name = Vital, address = Ukraine, treatment cost = 10920 }
+Achacha (Vid = Mouse, person Name = Lina, address = Pardubice, treatment cost = 1784 }

@@ -15,7 +15,7 @@ public class Menu {
         if(choise>=0 && choise<7){
         break;
         } else{
-            System.out.println("Choose the number beetwen <0,9>");
+            System.out.println("Choos beetwen <0,9>");
         }
         }
     return choise;

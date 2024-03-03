@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class Menu {
     public static int getChoise(){
-        System.out.println("Choose the number");
+        System.out.println("Choose the number from menu");
         Scanner input = new Scanner(System.in);    
         int choise = -1;
         
